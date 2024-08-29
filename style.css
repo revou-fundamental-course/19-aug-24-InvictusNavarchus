@@ -1,0 +1,16 @@
+html,body {
+    margin: 0;
+}
+
+nav {
+    background-color: antiquewhite;
+    padding: 20px;
+}
+
+nav ul {
+    display: flex;
+    list-style: none;
+    gap: 30px;
+    justify-content: end;
+    margin: 0;
+}
